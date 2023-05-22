@@ -6,7 +6,7 @@
 
 
 # Custom Rom Android
-Twrp dulu yg kudu di downloads <b>[twrp](https://twrp.me)</b> ,  <b>[nih roomnya sesuaiin aja sama hpnya](https://nusantararom.org)</b> terlebih dahulu: <b>[Click Disini](https://github.com/NusantaraProject-ROM)</b>
+Twrp dulu yg kudu di downloads <b>[twrp](https://twrp.me)</b> [nih roomnya sesuaiin aja sama😃] hpnya](https://nusantararom.org)</b> terlebih dahulu: <b>[Click Disini](https://github.com/NusantaraProject-ROM)</b>
 
 
 
